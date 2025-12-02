@@ -1,3 +1,45 @@
+# GPA Converter
+
+A professional desktop application for converting A-Level grades to multiple international grading systems (American, European, German, and UCAS), built with Python and Tkinter.
+
+---
+
+## ✨ Features
+
+- **Dual Calculation Modes**:
+  - **Standard Calculation**: Convert letter grades (A*, A, B, etc.) to GPA systems
+  - **Precise Calculation (PUM)**: Use Percentage Uniform Marks (0-100) for more accurate conversions
+- **Multiple Grading Systems**:
+  - American GPA (4.0 scale)
+  - European GPA (100 scale)
+  - German GPA (Bavarian formula)
+  - UCAS Tariff points
+- **User-Friendly Interface**:
+  - Clean, modern UI with professional color scheme
+  - Tabbed interface for easy navigation
+  - Dynamic subject addition/removal
+  - Real-time calculation results
+- **Professional Design**:
+  - Consistent blue/yellow color palette
+  - Clearly labeled input/output sections
+  - Responsive layout
+
+---
+
+## 🛠️ Installation & Requirements
+
+### Prerequisites
+- Python 3.7 or higher
+- Tkinter (usually included with Python)
+
+### Installation
+1. Clone the repository or download the `Conversator.py` file
+2. Ensure Python is installed on your system
+3. Run the application:
+```bash
+python Conversator.py
+
+
 # Mark-equivalent-Edu-proj-
 Grading Systems Explained
 System	Scale	Description
