@@ -36,8 +36,7 @@ A professional desktop application for converting A-Level grades to multiple int
 1. Clone the repository or download the `Conversator.py` file
 2. Ensure Python is installed on your system
 3. Run the application:
-```bash
-python Conversator.py
+
 
 
 # Mark-equivalent-Edu-proj-
