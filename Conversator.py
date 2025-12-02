@@ -58,7 +58,7 @@ class GPAConverter:
         
         students_label = tk.Label(
             creator_frame,
-            text="Created by:[Rashid Gafarov]",
+            text="Created by:[Me]",
             font=('Arial', 10, 'italic'),
             bg=self.colors['background'],
             fg='white'
@@ -684,4 +684,5 @@ def main():
     root.mainloop()
 
 if __name__ == "__main__":
+
     main()
